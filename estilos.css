@@ -1,0 +1,21 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+   background-color: rgb(253, 254, 255); 
+}
+menu{
+    background-attachment: fixed;
+    font-size: 05px
+}
+footer{
+    text-decoration-color: violet;
+}
+p{
+    text-decoration: black;
+}
+#Menu{
+    color: blue;
+}
